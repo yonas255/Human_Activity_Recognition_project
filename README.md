@@ -41,4 +41,7 @@ Logistic Regression outperformed K-NN, demonstrating better performance across a
   4. pip install pandas
   5. venv\Scripts\activate  # For Windows source venv/bin/activate  # For macOS/Linux
   6. run Activity_recogn.py and see the results
+
+## Resource 
+https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones
    
